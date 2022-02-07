@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1608627455 source:c:\users\qq2998637256\desktop\大作业\管理系统\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<string.h>
+	<conio.h>
+	<ege/sys_edit.h>
+
+1638843083 source:c:\users\qq2998637256\desktop\c语言大作业\管理系统\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<string.h>
+	<conio.h>
+	<ege/sys_edit.h>
+
